@@ -1,7 +1,7 @@
 
 html {
 
-background-color: rgb(0, 0, 0);
+background-image: url(climate_map_summer_surface_temp_web.jpg)
 
 }
 
@@ -9,3 +9,9 @@ h1, h2, h3 {
 
     color: rgb(93, 159, 182)
 }
+
+.img1 {
+
+    float: left;
+}
+
